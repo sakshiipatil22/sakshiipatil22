@@ -1,4 +1,4 @@
-![Sakshi's GitHub Banner](https://github.com/itsskofficial/itsskofficial/assets/65887545/5bad5d31-9730-4bfd-8433-5966e78dd8f9)
+![Sakshi's GitHub Banner](https://github.com/sakshiipatil22/sakshiipatil22/blob/master/assets/Bioinformatics%20Artwork.jpg?raw=true)
 
 
 Hey, I am Sakshi
