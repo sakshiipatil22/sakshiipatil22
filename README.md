@@ -1,7 +1,7 @@
 ![Sakshi's GitHub Banner](https://github.com/sakshiipatil22/sakshiipatil22/blob/master/assets/Bioinformatics%20Artwork.jpg?raw=true)
 
 
-Hey, I am Sakshi
+👋 Hey, I am Sakshi
 
 Here's a quick intro about me :
 
