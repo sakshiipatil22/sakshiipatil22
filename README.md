@@ -40,12 +40,12 @@ Skills :
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/Code-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 <!--- ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) --->
 <!--- ![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61DAFB) --->
 <!--- ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=339933) --->
 <!--- ![](https://img.shields.io/badge/Code-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=000000) --->
-<!--- ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248) --->
 <!--- ![](https://img.shields.io/badge/Code-Neo4J-informational?style=flat&logo=neo4j&logoColor=white&color=0A6190) --->
 <!--- ![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextjs&logoColor=white&color=000000) --->
 <!--- ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=4dc0b5) --->
